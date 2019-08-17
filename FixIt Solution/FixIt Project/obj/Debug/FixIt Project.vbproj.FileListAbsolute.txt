@@ -1,0 +1,23 @@
+E:\VB2017\Chap10\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe.config
+E:\VB2017\Chap10\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe
+E:\VB2017\Chap10\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.pdb
+E:\VB2017\Chap10\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.xml
+E:\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.frmMain.resources
+E:\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.Resources.resources
+E:\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.exe
+E:\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.xml
+E:\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.pdb
+C:\Users\Jessica\Downloads\VB\Zak Visual Basic Data Files 9781337102124\Chapter 10 Data Files\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbprojAssemblyReference.cache
+C:\Users\Jessica\Downloads\VB\Zak Visual Basic Data Files 9781337102124\Chapter 10 Data Files\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.frmMain.resources
+C:\Users\Jessica\Downloads\VB\Zak Visual Basic Data Files 9781337102124\Chapter 10 Data Files\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.Resources.resources
+C:\Users\Jessica\Downloads\VB\Zak Visual Basic Data Files 9781337102124\Chapter 10 Data Files\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbproj.GenerateResource.cache
+C:\Users\Jessica\Downloads\VB\Zak Visual Basic Data Files 9781337102124\Chapter 10 Data Files\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbproj.CoreCompileInputs.cache
+C:\Users\Jessica\Downloads\VB\Zak Visual Basic Data Files 9781337102124\Chapter 10 Data Files\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.exe
+C:\Users\Jessica\Downloads\VB\Zak Visual Basic Data Files 9781337102124\Chapter 10 Data Files\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.xml
+C:\Users\Jessica\Downloads\VB\Zak Visual Basic Data Files 9781337102124\Chapter 10 Data Files\VB2017\Chap10\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.pdb
+C:\Users\Jessica\Downloads\VB\Zak Visual Basic Data Files 9781337102124\Chapter 10 Data Files\VB2017\Chap10\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe.config
+C:\Users\Jessica\Downloads\VB\Zak Visual Basic Data Files 9781337102124\Chapter 10 Data Files\VB2017\Chap10\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe
+C:\Users\Jessica\Downloads\VB\Zak Visual Basic Data Files 9781337102124\Chapter 10 Data Files\VB2017\Chap10\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.pdb
+C:\Users\Jessica\Downloads\VB\Zak Visual Basic Data Files 9781337102124\Chapter 10 Data Files\VB2017\Chap10\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.xml

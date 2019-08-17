@@ -1,0 +1,8 @@
+﻿  FiveCardDraw.cpp
+c:\users\jessica\source\repos\fivecarddraw\fivecarddraw\fivecarddraw.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jessica\source\repos\fivecarddraw\fivecarddraw\fivecarddraw.cpp(88): warning C4101: 'card': unreferenced local variable
+c:\users\jessica\source\repos\fivecarddraw\fivecarddraw\fivecarddraw.cpp(291): warning C4018: '<': signed/unsigned mismatch
+c:\users\jessica\source\repos\fivecarddraw\fivecarddraw\fivecarddraw.cpp(258): warning C4101: 'cards': unreferenced local variable
+c:\users\jessica\source\repos\fivecarddraw\fivecarddraw\fivecarddraw.cpp(415): warning C4715: 'getRank': not all control paths return a value
+c:\users\jessica\source\repos\fivecarddraw\fivecarddraw\fivecarddraw.cpp(432): warning C4715: 'getSuit': not all control paths return a value
+  FiveCardDraw.vcxproj -> C:\Users\Jessica\source\repos\FiveCardDraw\Debug\FiveCardDraw.exe
